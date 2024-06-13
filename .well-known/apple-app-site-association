@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "434XP74599.com.vently.app",
+        "paths": [ "/events/*" ]
+      }
+    ]
+  }
+}
